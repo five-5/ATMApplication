@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ATM", "ATM\ATM.vcxproj", "{1A0A603E-8061-4D8E-88DC-B8F368ADFB44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataManager", "DataManager\DataManager.vcxproj", "{210AE275-0FD1-4697-86EF-46971A8A3E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0A603E-8061-4D8E-88DC-B8F368ADFB44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A0A603E-8061-4D8E-88DC-B8F368ADFB44}.Debug|Win32.Build.0 = Debug|Win32
+		{1A0A603E-8061-4D8E-88DC-B8F368ADFB44}.Release|Win32.ActiveCfg = Release|Win32
+		{1A0A603E-8061-4D8E-88DC-B8F368ADFB44}.Release|Win32.Build.0 = Release|Win32
+		{210AE275-0FD1-4697-86EF-46971A8A3E6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{210AE275-0FD1-4697-86EF-46971A8A3E6F}.Debug|Win32.Build.0 = Debug|Win32
+		{210AE275-0FD1-4697-86EF-46971A8A3E6F}.Release|Win32.ActiveCfg = Release|Win32
+		{210AE275-0FD1-4697-86EF-46971A8A3E6F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
